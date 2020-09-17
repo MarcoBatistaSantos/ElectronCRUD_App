@@ -1,1 +1,1 @@
-# Simple CRUD application witg Electron.
+# Simple CRUD application with Electron.
